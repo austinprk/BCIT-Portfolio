@@ -1,0 +1,199 @@
+
+.profile {
+  position: absolute;
+  top: 130px;
+  left: 900px;
+  }
+
+  .UNMISS {
+      position: absolute;
+      top : 610px;
+      left : 570px;
+  }
+
+  .BCIT {
+      position : absolute;
+      top : 810px;
+      left : 570px;
+  }
+
+  .pic1 {
+      position : absolute;
+      top : 550px;
+      left : 270px;
+  }
+
+  .pic2 {
+    position : absolute;
+    top : 870px;
+    left : 270px;
+}
+
+/*contact number*/
+.contact {
+    font-family: "Copperplate", fantasy;
+    position : absolute;
+    top : 360px;
+    left : 930px;
+    }
+
+/*experience*/
+.exp {
+      font-family: "Copperplate", fantasy;
+      position : absolute;
+      top : 520px;
+      left : 650px;
+     
+      }
+
+.desc_exp1 {
+    font-family: "Copperplate", fantasy;
+    position : absolute;
+    top : 600px;
+    left : 660px;
+  
+    }
+
+.desc_exp2 {
+    font-family: "Copperplate", fantasy;
+    position : absolute;
+    top : 630px;
+    left : 660px;
+    color : grey
+    }
+    
+.horizontal_line {
+    background-color : #d95571;
+    width :75%;
+    height : 1px;
+    position: absolute;
+    top : 500px;
+    left : 150px;
+}
+
+  .p1 {
+    font-family: "Copperplate", fantasy;
+    position : absolute;
+    top : 130px;
+    left : 430px;
+    }
+
+.p2 {
+    font-family: "Copperplate", fantasy;
+    position : absolute;
+    top : 200px;
+    left : 430px;
+    }
+
+.p3 {
+    font-family: "Copperplate", fantasy;
+    position : absolute;
+    top : 180px;
+    left : 480px;
+    color : orange
+    }
+
+.p4 {
+    font-family: "Copperplate", fantasy;
+    position : absolute;
+    top : 270px;
+    left : 430px;
+    color : grey
+    }
+
+.p5 {
+    font-family: "Copperplate", fantasy;
+    position : absolute;
+    top : 265px;
+    left : 570px;
+    color : #d95571
+    }
+
+.edu {
+    font-family: "Copperplate", fantasy;
+    position : absolute;
+    top : 720px;
+    left : 650px;
+}
+
+.desc_edu1 {
+  font-family: "Copperplate", fantasy;
+  position : absolute;
+  top : 800px;
+  left : 660px;
+}
+
+.desc_edu2 {
+  font-family: "Copperplate", fantasy;
+  position : absolute;
+  top : 830px;
+  left : 660px;
+  color : grey
+  }
+
+  .course_taking {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 870px;
+    left: 680px;
+    color : #323eba
+  }
+
+  .ACIT_1620 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 910px;
+    left : 680px;
+  }
+
+  .desc_acit {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 940px;
+    left : 670px;
+    color : grey;
+  }
+
+  .MATH_1310 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 1000px;
+    left : 680px;
+  }
+
+  .desc_math {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 1030px;
+    left : 670px;
+    color : grey;
+  }
+
+  .COMM_1116 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 1090px;
+    left : 680px;
+  }
+
+  .desc_comm {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 1120px;
+    left : 670px;
+    color : grey;
+  }
+  
+  .click1 {
+    position : absolute;
+    top : 680px;
+    left : 660px;
+    font-family: "Copperplate", fantasy;
+  }
+
+  .click2 {
+    position : absolute;
+    top : 1165px;
+    left : 660px;
+    font-family: "Copperplate", fantasy;
+  }

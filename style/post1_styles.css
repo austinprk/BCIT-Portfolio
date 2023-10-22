@@ -1,0 +1,124 @@
+.post1_profile {
+    position: absolute;
+    top: 80px;
+    left: 550px;
+    }
+
+.about_me1 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 20px;
+    left : 600px;
+}
+
+.about_me2 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 250px;
+    left : 290px;
+}
+
+.about_me3 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 270px;
+    left : 400px;   
+}
+
+.about_me4 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 290px;
+    left : 430px;   
+}
+
+.skill {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 350px;
+    left : 600px;
+    color : orange;
+}
+
+.progress1 {
+    accent-color: orange;
+  }
+.progress1[value] {
+    width: 400px;
+    height: 50px;
+    position : absolute;
+    top : 430px;
+    left : 430px;
+  }
+
+  .progress2 {
+    accent-color: orange;
+  }
+  .progress2[value] {
+    width: 400px;
+    height: 50px;
+    position : absolute;
+    top : 510px;
+    left : 430px;
+    
+  }
+
+  .progress3 {
+    accent-color: orange;
+  }
+.progress3[value] {
+    width: 400px;
+    height: 50px;
+    position : absolute;
+    top : 590px;
+    left : 430px;
+    
+  }
+
+.html {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 400px;
+    left : 440px;
+    color : #fc6b03;  
+}
+
+.percentage1 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 400px;
+    left : 800px;
+    color : #a8a3a0;  
+}
+
+.python {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 480px;
+    left : 440px;  
+    color : #fc6b03; 
+}
+
+.percentage2 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 480px;
+    left : 800px; 
+    color : #a8a3a0;  
+}
+
+.cpp {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 560px;
+    left : 440px;  
+    color :#fc6b03;
+}
+
+.percentage3 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 560px;
+    left : 800px;   
+    color :#a8a3a0; 
+}

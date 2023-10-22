@@ -1,0 +1,67 @@
+/*certiciate image*/
+.certificate {
+    position:absolute;
+    left : 20px;
+}
+
+/*features and descriptions*/
+.feature1 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 30px;
+    left : 680px;
+}
+
+.desc_feature1 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 70px;
+    left : 680px;
+    color : grey;
+}
+
+.feature2 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 140px;
+    left : 680px;
+}
+
+.desc_feature2 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 180px;
+    left : 680px;
+    color : grey;
+
+}
+
+.feature3 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 250px;
+    left : 680px;
+}
+
+.desc_feature3 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 290px;
+    left : 680px;
+    color : grey;
+}
+
+.feature4 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 360px;
+    left : 680px;
+}
+
+.desc_feature4 {
+    font-family : "Copperplate", fantasy;
+    position : absolute;
+    top : 400px;
+    left : 680px;
+    color : grey;
+}
